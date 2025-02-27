@@ -64,6 +64,6 @@ This project enabled me to:
 
 
 ### **Entity Relationship Diagram (ERD)**
-![ERD](https://github.com/najirh/amazon_usa_project5/blob/main/erd.png)
+![ERD Scratch](https://github.com/sirajsaifi/Amazon-Data-Analysis/blob/main/amazondbERD.png)
 
 ---
