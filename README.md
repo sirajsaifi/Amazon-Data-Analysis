@@ -14,7 +14,9 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
+## **Entity Relationship Diagram (ERD)**
 ![ERD Scratch](https://github.com/sirajsaifi/Amazon-Data-Analysis/blob/main/amazondbERD.png)
+
 
 
 ## **Task: Data Cleaning**
@@ -61,9 +63,3 @@ This project enabled me to:
 - Use advanced SQL techniques, including window functions, subqueries, and joins.
 - Conduct in-depth business analysis using SQL.
 - Optimize query performance and handle large datasets efficiently.
-
-
-### **Entity Relationship Diagram (ERD)**
-![ERD Scratch](https://github.com/sirajsaifi/Amazon-Data-Analysis/blob/main/amazondbERD.png)
-
----
